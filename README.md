@@ -1,8 +1,6 @@
 # Snacker
 This is Snacker, showing snack message from Top of the screen. 
 
-
-
 **# Create Default Snacker message:**
 ```
 val defaultSnacker = Snacker.Builder(activity as AppCompatActivity)
