@@ -5,6 +5,11 @@ This is Snacker, showing snack message from Top of the screen.
 
 https://www.youtube.com/watch?v=opQViiYseuI
 
+# Gradle support
+Add this line to root build.gradle file `maven { url "https://jitpack.io" }`
+
+app gradle: `compile 'com.github.sunilmishra:snacker:1.0.0'`
+
 **# Create Default Snacker message:**
 ```
 val defaultSnacker = Snacker.Builder(activity as AppCompatActivity)
