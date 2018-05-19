@@ -2,9 +2,9 @@
 This is Snacker, showing snack message from Top of the screen. 
 
 **# Gradle support:**
-Add this line to root build.gradle file `maven { url "https://jitpack.io" }`
-
-app gradle: `compile 'com.github.sunilmishra:snacker:1.0.0'`
+Add below lines to your .gradle files <br/>
+root build.gradle:  `maven { url "https://jitpack.io" }`<br/>
+app build.gradle: `compile 'com.github.sunilmishra:snacker:1.0.0'`
 
 <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/0.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/1.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/2.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/3.png" width="200" height="400" />
 
