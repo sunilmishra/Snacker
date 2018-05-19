@@ -16,7 +16,6 @@ import java.lang.ref.WeakReference
 
 /**
  * Created by Sunil Mishra on 05/18/18.
- * Copyright © 2018 Emc Tech Lab, Inc. All rights reserved.
  */
 class Snacker private constructor(private val activity: AppCompatActivity,
                                   private var weakRootView: WeakReference<View>,
