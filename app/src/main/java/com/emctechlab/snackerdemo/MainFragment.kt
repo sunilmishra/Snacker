@@ -49,6 +49,7 @@ class MainFragment : Fragment() {
                     .setBackgroundColor(R.color.lightBlue)
                     .setTextColor(android.R.color.black)
                     .setIcon(R.drawable.icon)
+                    .setDuration(Snacker.Builder.Duration.LENGTH_LONG)
                     .build()
             iconSnacker.show()
         }
