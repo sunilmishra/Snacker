@@ -1,14 +1,14 @@
 # Snacker
 This is Snacker, showing snack message from Top of the screen. 
 
-<img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/0.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/1.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/2.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/3.png" width="200" height="400" />
-
-https://www.youtube.com/watch?v=opQViiYseuI
-
 **# Gradle support:**
 Add this line to root build.gradle file `maven { url "https://jitpack.io" }`
 
 app gradle: `compile 'com.github.sunilmishra:snacker:1.0.0'`
+
+<img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/0.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/1.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/2.png" width="200" height="400" /> <img src="https://github.com/sunilmishra/Snacker/blob/master/screenshots/3.png" width="200" height="400" />
+
+https://www.youtube.com/watch?v=opQViiYseuI
 
 **# Create Default Snacker message:**
 ```
