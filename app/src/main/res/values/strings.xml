@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SnackerDemo</string>
+    <string name="default_snacker">Default Snacker</string>
+    <string name="colored_snacker">Colored Snacker</string>
+    <string name="icon_snacker">Icon Snacker</string>
+</resources>

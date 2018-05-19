@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".MainFragment">
+
+    <Button
+        android:id="@+id/defaultSnackerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/default_snacker" />
+
+    <Button
+        android:id="@+id/coloredSnackerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/colored_snacker"
+        app:layout_constraintTop_toBottomOf="@+id/defaultSnackerButton" />
+
+    <Button
+        android:id="@+id/iconSnackerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/icon_snacker"
+        app:layout_constraintTop_toBottomOf="@+id/coloredSnackerButton" />
+
+</android.support.constraint.ConstraintLayout>
