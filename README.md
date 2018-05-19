@@ -5,7 +5,7 @@ This is Snacker, showing snack message from Top of the screen.
 
 https://www.youtube.com/watch?v=opQViiYseuI
 
-# Gradle support
+**# Gradle support:**
 Add this line to root build.gradle file `maven { url "https://jitpack.io" }`
 
 app gradle: `compile 'com.github.sunilmishra:snacker:1.0.0'`
